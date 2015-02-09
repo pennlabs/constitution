@@ -3,7 +3,7 @@ Penn Labs Constitution
 
 **Created**: _August 14, 2011_
 
-**Last modified**: _February 8, 2015 ([see changelog](changelog.md))_
+**Last modified**: _February 9, 2015 ([see changelog](changelog.md))_
 
 
 ## Overview
@@ -19,9 +19,9 @@ achieve the stated objective.
 
 ### Developers
 
-Penn Labs pays students up to $15 per hour to work on projects part-time during the school
-year. At roughly 120 hours/semester (10 hours/week over 12 weeks), this comes to **$1,800 per
-developer per semester**. These rates are in 2011 USD adjusted every three years for inflation.
+Penn Labs pays students up to $16 per hour to work on projects part-time during the school
+year. At roughly 120 hours/semester (10 hours/week over 12 weeks), this comes to **$1,920 per
+developer per semester**. These rates are in 2015 USD adjusted every three years for inflation.
 
 The rate is consistent with rates at top research positions and the rates of computer science
 teaching assistants at Penn. Penn Labs may also, at its discretion, hire developers on a
@@ -48,7 +48,7 @@ Penn Labs cannot maintain a client-provider relationship with any student group.
 payment per-project or conditional payment based on project completion are against the non-profit
 nature of the work and not considered potential funding sources.
 
-Penn Labs is open to receive donations beyonds its base funding on an ad-hoc basis without
+Penn Labs is open to receive donations beyond its base funding on an ad-hoc basis without
 preconditions or expectations of a resulting service.
 
 
@@ -98,9 +98,11 @@ includes, but is not limited to, the Provost’s Office, relevant UA members, IS
 administrators.
 
 #### Ratification
-The board meets soon after to consider the proposal.  Penn Labs presents the proposed project
-and feature schedule.  The board reviews the proposal and requires a ⅘ majority for ratification,
-making changes or comments as needed.
+The board meets soon after the idea generation and due diligence process to consider the proposal,
+which should include the name, expected timeline, scope of the project, logistical requirements as
+outlined above, and the proposed student benefit of the project. Penn Labs presents the proposed
+project and feature schedule. The board reviews the proposal and requires a ⅘ majority for
+ratification, making changes or comments as needed.
 
 
 ## Stakeholders
@@ -108,9 +110,9 @@ making changes or comments as needed.
 ### Penn Labs Board
 
 The Penn Labs Board is intended to oversee the organization.  Comprised of key stakeholders and
-funding partners, it will meet every semester to receive a progress report and approve ongoing and
-future PAL activities. Though the board will be compelled to meet as described above, voting can be
-done online over e-mail.
+funding partners, it will meet at least 3 times every semester to receive a progress report and
+approve ongoing and future Penn Labs activities. Though the board will be compelled to meet as
+described above, voting can be done online over e-mail.
 
 #### Penn Labs Board Membership
 - Two Undergraduate Assembly representatives, which will be designated as the UA Speaker and UA
@@ -119,8 +121,9 @@ done online over e-mail.
 - Two appointed representatives of from the Provost’s Office and/or VPUL.
 - One appointed representative from ISC.
 - Non-voting members:
-  - The Undergraduate Assembly Online Services Coordinator, charged with helping to set agendas,
-    liaise with administrators, be invested in Penn Labs’ success, etc.
+  - The Undergraduate Assembly Secretary or an Online Services Coordinator from the Undergraduate
+    Assembly if found necessary, charged with helping to set agendas, liaise with administrators, be
+    invested in Penn Labs’ success, etc.
   - The Director(s) will be non-voting members of the board and give the presentation.
 
 
@@ -134,8 +137,8 @@ budget use.
 
 In the case of two Directors, they will divide up work and responsibility at their discretion.
 
-**Pay**. The Director position is currently volunteer and unpaid, though that is subject to change
-with approval of the Board.
+**Pay**. The Director position is encouraged to be volunteer and unpaid, but Directors have the
+option to be paid up to the rate of developers, currently $16 per hour.
 
 #### Responsibilities
 - Attend all developer meetings and oversee high-level project and technical direction.
@@ -226,10 +229,11 @@ students, several strategies will be employed by the team.
 - **Hiring of Underclassmen**
 - **Project Progression**: Projects will be explicitly passed on from senior to junior developers.
 
-Additionally, all code written will be under ownership by the University of Pennsylvania, and not
-of the specific bodies or persons thereof. The noncommercial sharing of the code will be the
-purview of Labs unless specifically determined otherwise at the outset of the specific
-project. Code cannot be used sold or used for profit.
+Additionally, all code written will be under ownership by the University of Pennsylvania, and not of
+the specific bodies or persons thereof. The noncommercial sharing of the code will be the purview of
+Labs unless specifically determined otherwise at the outset of the specific project. Code cannot be
+used sold or used for profit. It is a long-term goal that the source code to all projects should be
+provided under an open source license.
 
 ### Project Oversight
 
@@ -261,7 +265,8 @@ Penn Labs will be held accountable to client group in the following ways:
   ratification. As with all proejcts, a degree of flexibility is given at the discretion of the
   team.
 - Director(s), or Project Lead if applicable, will maintain consistent contact with and update the
-  client throughout the project lifetime.
+  client throughout the project lifetime. These may be in the form of a weekly email with details
+  regarding each project being worked on.
 - Both Penn Labs and partner student group have the option of signing a contract of the project
   proposed to be reviewed by Penn Labs Board. Additional clauses to the contract can be added
   via addendum or separate contract between Penn Labs and partner student group.
@@ -272,11 +277,9 @@ Penn Labs will be held accountable to client group in the following ways:
 
 
 ## Ratification and Amendment Process
-This document is to be ratified by a ⅘ majority of the Board at their upcoming meeting in Fall
-2011.  Any amendments to be made to this document will likewise be ratified by the Board at their
-next meeting point and will also require a ⅘ majority to pass.
+This document was ratified by a ⅘ majority of the Board at their upcoming meeting in Fall 2011. Any
+amendments to be made to this document will likewise be ratified by the Board at their next meeting
+point and will also require a ⅘ majority to pass.
 
-**Continued Support**: In January of 2012, there will be a review of Penn Labs by the Penn
-Labs Board. Depending on the findings and recommendations of that review, the UA will decide
-whether to fund Penn Labs and whether to request matching funds from the Provost for 2012-2013.
-The review and the decision about funding for the next year should be completed by February 2011.
+An up-to-date version of this document must be publicly available to the student body and be
+provided to the Speaker of the Undergraduate Assembly.

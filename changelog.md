@@ -4,9 +4,22 @@ Changes to Labs Constitution
 Summary
 -----
 
+- **February 9, 2015**: Renamed PennApps Labs -> Penn Labs, clarified role of Penn Labs Board,
+  updated details on finances, and minor changes in project process.
 - **September 9, 2012**: Removed some outdated references, clarified and expanded on roles, changed
   leadership structure, changed project timelines.
 - **Created August 14, 2011**
+
+### February 9, 2015 Changes
+- Rename PennApps Labs to Penn Labs
+- Adjust developer payrate to $16 per hour for inflation and to match CIS TA rates
+- Add specifics on what is required in a proposal to the Penn Labs board
+- Require 3 Penn Labs Board meetings per semester
+- Allow flexibility in selection of UA Secretary of Online Services Coordinator
+- Allow Labs Directors to be paid
+- Set goal to open source all projects after completion
+- Specify email communication as primary means of client communication on project status
+- Require that constitution be publicly available and sent to UA Speaker
 
 ### September 9, 2012 Changes
 - Generalized cost-breakdown, since last year we cut our budget to $7,500. No sense having the $10K
@@ -16,7 +29,7 @@ Summary
 - Removed one project/semester language.
 - Removed language of PennApps Labs advisory board, which hasn’t existed since I’ve been around.
 - Added structural changes:
-- Replaced pronged Tech+Opeartions lead with generalized Director(s) role.
+- Replaced pronged Tech+Operations lead with generalized Director(s) role.
 - Added optional roles for community/marketing and tech evangelism.
 - Added Project Lead role as leadership role within fulltime developers
 - Clarified accountability — was confusing and slightly out of date, removed references to
