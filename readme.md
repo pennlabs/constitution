@@ -3,7 +3,7 @@ PennApps Labs Constitution
 
 **Created**: _August 14, 2011_
 
-**Last modified**: _September 9, 2012 ([see changelist](changelist.md))_
+**Last modified**: _September 9, 2012 ([see changelog](changelog.md))_
 
 
 ## Overview
