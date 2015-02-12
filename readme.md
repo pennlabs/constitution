@@ -1,9 +1,9 @@
-PennApps Labs Constitution
+Penn Labs Constitution
 =====
 
 **Created**: _August 14, 2011_
 
-**Last modified**: _September 9, 2012 ([see changelist](changelist.md))_
+**Last modified**: _February 12, 2015 ([see changelog](changelog.md))_
 
 
 ## Overview
@@ -19,42 +19,43 @@ achieve the stated objective.
 
 ### Developers
 
-PennApps Labs pays students up to $15 per hour to work on projects part-time during the school
-year. At roughly 120 hours/semester (10 hours/week over 12 weeks), this comes to **$1,800 per
-developer per semester**. These rates are in 2011 USD adjusted every three years for inflation.
+Penn Labs pays students up to $16 per hour to work on projects part-time during the school
+year. At roughly 120 hours/semester (10 hours/week over 12 weeks), this comes to **$1,920 per
+developer per semester**. These rates are in 2015 USD adjusted every three years for inflation
+by the Penn Labs Board.
 
 The rate is consistent with rates at top research positions and the rates of computer science
-teaching assistants at Penn. PennApps Labs may also, at its discretion, hire developers on a
+teaching assistants at Penn. Penn Labs may also, at its discretion, hire developers on a
 contract basis to fulfill specific needs not covered by the full time developers.
 
 ### Operations
 
-PennApps Labs will also provision **~$1,000 for miscellaneous operational costs**, including server
+Penn Labs will also provision **~$1,000 for miscellaneous operational costs**, including server
 hosting costs, domain costs, and the purchase of any proprietary technology that increases the
-speed of development and any tasks (such as design) contracted beyond the core PennApps Labs team.
+speed of development and any tasks (such as design) contracted beyond the core Penn Labs team.
 Any under-utilization of miscellaneous funds will be distributed into additional developer hours
 above.
 
 
 ## Funding Sources
 
-PennApps Labs receives a budget from the Undergraduate Assembly to be matched by the Provost’s
-office for the school year. PennApps Labs conducts payroll through the Provost’s office.
+Penn Labs receives a budget from the Undergraduate Assembly to be matched by the Provost’s
+office for the school year. Penn Labs conducts payroll through the Provost’s office.
 
-Though PennApps Labs will partner with a variety of student groups on campus, funding for PennApps
+Though Penn Labs will partner with a variety of student groups on campus, funding for Penn
 Labs will remain independent of projects, leaving the group to work on the highest-impact products
 for student life, without regard to a particular student group’s ability to raise funding.
-PennApps Labs cannot maintain a client-provider relationship with any student group. Proposals like
+Penn Labs cannot maintain a client-provider relationship with any student group. Proposals like
 payment per-project or conditional payment based on project completion are against the non-profit
 nature of the work and not considered potential funding sources.
 
-PennApps Labs is open to receive donations beyonds its base funding on an ad-hoc basis without
+Penn Labs is open to receive donations beyond its base funding on an ad-hoc basis without
 preconditions or expectations of a resulting service.
 
 
 ## Operations
 
-The two primary tasks of PennApps Labs during a given semester are to start new projects or conduct
+The two primary tasks of Penn Labs during a given semester are to start new projects or conduct
 substantial improvements on existing projects, and to continue ongoing maintenance or adoption of
 existing projects.
 
@@ -66,7 +67,7 @@ over the long term.
 
 ### Project Generation Process
 
-In addition to project maintenance, PennApps Labs will work with stakeholders to generate and
+In addition to project maintenance, Penn Labs will work with stakeholders to generate and
 execute on a new project idea on a regular and ongoing basis. The project generation process
 consists of three steps: idea generation, due diligence resulting in a proposal, and board
 ratification.
@@ -78,8 +79,8 @@ chosen for due diligence. (Depending on the outcome of the due diligence period,
 the project list until a feasible project is found.)
 
 #### Due Diligence
-Ideas are examined and explored by the PennApps Labs Team (membership described below) and prepared
-for presentation to the PennApps Labs Board (membership described below) in a proposal consisting
+Ideas are examined and explored by the Penn Labs Team (membership described below) and prepared
+for presentation to the Penn Labs Board (membership described below) in a proposal consisting
 of the vision, including the different features, and an ordered priority of each feature. The due
 diligence process breaks down further into two parts: product, technical, and logistical.
 
@@ -88,7 +89,7 @@ the idea proposers to lay out the list of product features and their priority. I
 originate with a group, then Labs is responsible for providing such a feature list, taking into
 account any relevant stakeholders.
 
-**Technical**. The PennApps Labs team will examine the feature list provided and determine the
+**Technical**. The Penn Labs team will examine the feature list provided and determine the
 technical feasibility of the features. In addition, they will make a rough assessment of the
 potential implementation timeline and determine at a high level how they might be implemented.
 
@@ -98,44 +99,48 @@ includes, but is not limited to, the Provost’s Office, relevant UA members, IS
 administrators.
 
 #### Ratification
-The board meets soon after to consider the proposal.  PennApps Labs presents the proposed project
-and feature schedule.  The board reviews the proposal and requires a ⅘ majority for ratification,
-making changes or comments as needed.
+The board meets soon after the idea generation and due diligence process to consider the proposal,
+which should include the name, expected timeline, scope of the project, logistical requirements as
+outlined above, and the proposed student benefit of the project. Penn Labs presents the proposed
+project and feature schedule. The board reviews the proposal and requires a ⅘ majority for
+ratification, making changes or comments as needed.
 
 
 ## Stakeholders
 
-### PennApps Labs Board
+### Penn Labs Board
 
-The PennApps Labs Board is intended to oversee the organization.  Comprised of key stakeholders and
-funding partners, it will meet every semester to receive a progress report and approve ongoing and
-future PAL activities. Though the board will be compelled to meet as described above, voting can be
-done online over e-mail.
+The Penn Labs Board is intended to oversee the organization.  Comprised of key stakeholders and
+funding partners, it will meet at least 3 times every semester to receive a progress report and
+approve ongoing and future Penn Labs activities. Though the board will be compelled to meet as
+described above, voting can be done online over e-mail.
 
-#### PennApps Labs Board Membership
+#### Penn Labs Board Membership
 - Two Undergraduate Assembly representatives, which will be designated as the UA Speaker and UA
-  President by default with the option to delegate their voting rights to any general body member
+  President by default with the option to delegate their voting rights to any Exec Board member
   of the UA.
-- Two appointed representatives of from the Provost’s Office and/or VPUL.
-- One appointed representative from ISC.
+- One representative from the Provost’s Office.
+- One representative from OSA.
+- One representative from ISC.
 - Non-voting members:
-  - The Undergraduate Assembly Online Services Coordinator, charged with helping to set agendas,
-    liaise with administrators, be invested in PennApps’ success, etc.
-  - The Director(s) will be non-voting members of the board and give the presentation.
+  - The Undergraduate Assembly Secretary or an Online Services Coordinator from the Undergraduate
+    Assembly if found necessary, charged with helping to set agendas, liaise with administrators, be
+    invested in Penn Labs’ success, etc.
+  - The Penn Labs Director(s) will be non-voting members of the board and present project proposal.
 
 
 ## Structure
 
 ### Director(s)
 
-The PennApps Labs Team will be lead by one or two Directors, who set high-level direction, manage
+The Penn Labs Team will be lead by one or two Directors, who set high-level direction, manage
 human resources, and are generally the last word in internal decision-making, including hiring and
 budget use.
 
 In the case of two Directors, they will divide up work and responsibility at their discretion.
 
-**Pay**. The Director position is currently volunteer and unpaid, though that is subject to change
-with approval of the Board.
+**Pay**. The Director position may be volunteer and unpaid, but Directors have the option to be paid
+for their Penn Labs work up to the rate of developers, currently $16 per hour.
 
 #### Responsibilities
 - Attend all developer meetings and oversee high-level project and technical direction.
@@ -150,7 +155,7 @@ with approval of the Board.
 
 #### Hiring
 New Directors will be recommended by the outgoing Director (and continuing Director, if applicable)
-and approved by the PennApps Labs Board.
+and approved by the Penn Labs Board.
 
 ### Other Leadership Roles
 
@@ -159,7 +164,7 @@ which are outlined below. As of now, they are unpaid and volunteer, though that 
 change with approval of the Board.
 
 **Hiring**. The following roles will be appointed at this discretion of the Director(s), with the
-consultation of the PennApps Labs Team and Board.
+consultation of the Penn Labs Team and Board.
 
 #### Product Evangelist
 The product evangelist is responsible for the public face of Labs and community outreach. This
@@ -175,10 +180,10 @@ for users and generating feedback on and vested interest in Labs products.
 
 #### Tech Evangelist
 The tech evangelist is responsible for representing Labs to the Penn (and broader) developer
-community, and advocating for developers within PennApps Labs.
+community, and advocating for developers within Penn Labs.
 
 ##### Responsibilities
-Pitch PennApps Labs APIs to developers at hack events and in general.
+Pitch Penn Labs APIs to developers at hack events and in general.
 
 - Provide support or developer APIs.
 - Spearhead open-sourcing initiatives, and keep the rest of the team on track to open-source new
@@ -194,11 +199,11 @@ A core team of student developers, who will work 10–15 hours/week at the rate 
 will participate and contribute to documentation, code reviews, product vision and overall
 direction.
 
-In addition, PennApps Labs will take on newly-recruited junior developers, who will be working on a
+In addition, Penn Labs will take on newly-recruited junior developers, who will be working on a
 trial, training basis until made full developers at the discretion of the Director(s).
 
 **Hiring**. Developers will be hired on a regular basis through an open application process. Final
-hiring decisions will be made by the Director(s) with the consultation of the PennApps Labs Team.
+hiring decisions will be made by the Director(s) with the consultation of the Penn Labs Team.
 
 #### Project Lead(s)
 The Director(s) may, at their discretion, appoint project leads for new and existing projects from
@@ -218,7 +223,7 @@ the specific project.
 
 ### Maintaining Project Sustainability
 
-In order to guarantee longevity of PennApps Labs and to preserve the applications developed by
+In order to guarantee longevity of Penn Labs and to preserve the applications developed by
 students, several strategies will be employed by the team.
 
 - **Documentation**: Code will be written with extensive, quality comments for the ease of future
@@ -226,57 +231,57 @@ students, several strategies will be employed by the team.
 - **Hiring of Underclassmen**
 - **Project Progression**: Projects will be explicitly passed on from senior to junior developers.
 
-Additionally, all code written will be under ownership by the University of Pennsylvania, and not
-of the specific bodies or persons thereof. The noncommercial sharing of the code will be the
-purview of Labs unless specifically determined otherwise at the outset of the specific
-project. Code cannot be used sold or used for profit.
+Additionally, all code written will be under ownership by the University of Pennsylvania, and not of
+the specific bodies or persons thereof. The noncommercial sharing of the code will be the purview of
+Labs unless specifically determined otherwise at the outset of the specific project. Code cannot be
+used sold or used for profit. It is a long-term goal that the source code to all projects should be
+provided under an open source license.
 
 ### Project Oversight
 
 Projects will be overseen on two levels:
 
-#### PennApps Labs Board
-All new projects are vetted by the PennApps Labs Board. Regardless of the schedule of meetings,
+#### Penn Labs Board
+All new projects are vetted by the Penn Labs Board. Regardless of the schedule of meetings,
 progress reports on ongoing projects are given as well and general updates must be given (either in
 e-mail or in person) at the middle and end of each semester.
 
 ##### Other Oversight
-- All PennApps Labs projects are documented at their inception and shared on request with PennApps
+- All Penn Labs projects are documented at their inception and shared on request with Penn
   Labs Board and Advisory Team to combat overlap between student-run technologies and university
   center IT projects.
-- All PennApps Labs Board members will be given access on request to PennApps Labs’s central
+- All Penn Labs Board members will be given access on request to Penn Labs’s central
   “bug-tracking” software.
-- Receipt of hourly time sheets will be CC’ed weekly, on request, to PennApps Labs Board members by
+- Receipt of hourly time sheets will be CC’ed weekly, on request, to Penn Labs Board members by
   OSA, the current OSA payroll center.
 
 #### Project Client
-PennApps Labs will be held accountable to client group in the following ways:
+Penn Labs will be held accountable to client group in the following ways:
 
-- Upon agreeing to be a “partner student group,” PennApps Labs and partner student group have the
-  option of hosting a brainstorming session, optionally open to the PennApps Labs Board.
-- During the brainstorming session or thereafter, PennApps Labs and partner student group may agree
+- Upon agreeing to be a “partner student group,” Penn Labs and partner student group have the
+  option of hosting a brainstorming session, optionally open to the Penn Labs Board.
+- During the brainstorming session or thereafter, Penn Labs and partner student group may agree
   on a set of proposed changes to the student-run technology, as well as a set timeline (semester
-  or year).  These changes are ranked in priority, just as the PennApps Labs Board sets overall
-  priorities every semester.  The PennApps Labs team will present the proposal to the Board for
+  or year).  These changes are ranked in priority, just as the Penn Labs Board sets overall
+  priorities every semester.  The Penn Labs team will present the proposal to the Board for
   ratification. As with all proejcts, a degree of flexibility is given at the discretion of the
   team.
 - Director(s), or Project Lead if applicable, will maintain consistent contact with and update the
-  client throughout the project lifetime.
-- Both PennApps Labs and partner student group have the option of signing a contract of the project
-  proposed to be reviewed by PennApps Labs Board. Additional clauses to the contract can be added
-  via addendum or separate contract between PennApps Labs and partner student group.
-- Partner student group and PennApps Labs relationship is at-will. At any point, either party can
+  client throughout the project lifetime. These may be in the form of a weekly email with details
+  regarding each project being worked on.
+- Both Penn Labs and partner student group have the option of signing a contract of the project
+  proposed to be reviewed by Penn Labs Board. Additional clauses to the contract can be added
+  via addendum or separate contract between Penn Labs and partner student group.
+- Partner student group and Penn Labs relationship is at-will. At any point, either party can
   terminate the relationship if it does not feel the relationship is productive.
 - Student partner groups have final authority on the contents of their websites.
 - These agreements shall be subject to the UA guidelines for third party affiliations.
 
 
 ## Ratification and Amendment Process
-This document is to be ratified by a ⅘ majority of the Board at their upcoming meeting in Fall
-2011.  Any amendments to be made to this document will likewise be ratified by the Board at their
-next meeting point and will also require a ⅘ majority to pass.
+This document was ratified by a ⅘ majority of the Board at their upcoming meeting in Fall 2011. Any
+amendments to be made to this document will likewise be ratified by the Board at their next meeting
+point and will also require a ⅘ majority to pass.
 
-**Continued Support**: In January of 2012, there will be a review of PennApps Labs by the PennApps
-Labs Board. Depending on the findings and recommendations of that review, the UA will decide
-whether to fund PennApps Labs and whether to request matching funds from the Provost for 2012-2013.
-The review and the decision about funding for the next year should be completed by February 2011.
+An up-to-date version of this document must be publicly available to the student body and be
+provided to the Speaker of the Undergraduate Assembly.
