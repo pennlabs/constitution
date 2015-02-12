@@ -4,11 +4,18 @@ Changes to Labs Constitution
 Summary
 -----
 
+- **February 12, 2015**: Restructuring of Penn Labs Board membership and minor wording changes.
 - **February 9, 2015**: Renamed PennApps Labs -> Penn Labs, clarified role of Penn Labs Board,
   updated details on finances, and minor changes in project process.
 - **September 9, 2012**: Removed some outdated references, clarified and expanded on roles, changed
   leadership structure, changed project timelines.
 - **Created August 14, 2011**
+
+### February 12, 2015 Changes
+- Clarify that the rates are adjusted by the Penn Labs Board
+- Restrict delegation of UA voting rights to Exec Board
+- Restructure Penn Labs Board membership
+- Clarify wording for directors payment
 
 ### February 9, 2015 Changes
 - Rename PennApps Labs to Penn Labs

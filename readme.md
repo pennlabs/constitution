@@ -3,7 +3,7 @@ Penn Labs Constitution
 
 **Created**: _August 14, 2011_
 
-**Last modified**: _February 9, 2015 ([see changelog](changelog.md))_
+**Last modified**: _February 12, 2015 ([see changelog](changelog.md))_
 
 
 ## Overview
@@ -21,7 +21,8 @@ achieve the stated objective.
 
 Penn Labs pays students up to $16 per hour to work on projects part-time during the school
 year. At roughly 120 hours/semester (10 hours/week over 12 weeks), this comes to **$1,920 per
-developer per semester**. These rates are in 2015 USD adjusted every three years for inflation.
+developer per semester**. These rates are in 2015 USD adjusted every three years for inflation
+by the Penn Labs Board.
 
 The rate is consistent with rates at top research positions and the rates of computer science
 teaching assistants at Penn. Penn Labs may also, at its discretion, hire developers on a
@@ -116,15 +117,16 @@ described above, voting can be done online over e-mail.
 
 #### Penn Labs Board Membership
 - Two Undergraduate Assembly representatives, which will be designated as the UA Speaker and UA
-  President by default with the option to delegate their voting rights to any general body member
+  President by default with the option to delegate their voting rights to any Exec Board member
   of the UA.
-- Two appointed representatives of from the Provost’s Office and/or VPUL.
-- One appointed representative from ISC.
+- One representative from the Provost’s Office.
+- One representative from OSA.
+- One representative from ISC.
 - Non-voting members:
   - The Undergraduate Assembly Secretary or an Online Services Coordinator from the Undergraduate
     Assembly if found necessary, charged with helping to set agendas, liaise with administrators, be
     invested in Penn Labs’ success, etc.
-  - The Director(s) will be non-voting members of the board and give the presentation.
+  - The Penn Labs Director(s) will be non-voting members of the board and present project proposal.
 
 
 ## Structure
@@ -137,8 +139,8 @@ budget use.
 
 In the case of two Directors, they will divide up work and responsibility at their discretion.
 
-**Pay**. The Director position is encouraged to be volunteer and unpaid, but Directors have the
-option to be paid up to the rate of developers, currently $16 per hour.
+**Pay**. The Director position may be volunteer and unpaid, but Directors have the option to be paid
+for their Penn Labs work up to the rate of developers, currently $16 per hour.
 
 #### Responsibilities
 - Attend all developer meetings and oversee high-level project and technical direction.
