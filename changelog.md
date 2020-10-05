@@ -3,13 +3,31 @@ Changes to Labs Constitution
 
 Summary
 -----
-
+- **October 5, 2020**: Major changes to reflect a growing and dynamic organization over recent
+  years.
 - **February 12, 2015**: Restructuring of Penn Labs Board membership and minor wording changes.
 - **February 9, 2015**: Renamed PennApps Labs -> Penn Labs, clarified role of Penn Labs Board,
   updated details on finances, and minor changes in project process.
 - **September 9, 2012**: Removed some outdated references, clarified and expanded on roles, changed
   leadership structure, changed project timelines.
 - **Created August 14, 2011**
+
+### September 25th, 2020 Changes
+- Update and broaden mission statement and scope.
+- Add commitments to diversity & inclusion and open source.
+- Remove mention of payroll (payroll phased out from Fall 2017-Spring 2019).
+- Add commitment to non-monetary compensation.
+- Update language around project inception / maintenance to reflect how Penn Labs operates today.
+- Restructure the Penn Labs Advisory Board.
+  - Add vote for the Office of the University Registrar, who will have ownership over most student
+    data through NGSS and Banner/Pennant. 
+  - Give Directors a shared vote on the Advisory Board.
+  - Give the UA one vote on the Advisory Board.
+- Update role descriptions and responsibilities for Directors, Team Leads and General Members.
+  - Removed Evangelist roles, as those have not been filled in recent memory.
+- Add section on educational outreach initiatives.
+- Add section on product acquisitions.
+- Clarify the ability to develop proofs-of-concept before approval by the Advisory Board.
 
 ### February 12, 2015 Changes
 - Clarify that the rates are adjusted by the Penn Labs Board
